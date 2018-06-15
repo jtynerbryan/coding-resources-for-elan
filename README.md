@@ -21,7 +21,7 @@
 * [w3schools](https://www.w3schools.com/)
   * easy to understand tutorials and references on HTML, CSS, JavaScript and more.
 * [google](https://www.google.com/)
-  * Looking up stuff is a huge part of this. You're going to get stuck, see errors, write bugs etc. But your questions's have already been asked and solutions have been provided. Google an error or a how to, and you'll probably see results from [stack overflow](https://stackoverflow.com/). This is a good thing! Follow these links and you'll get some great explanations/solutions. You probably won't understand some of the stuff you see there, and that's totally ok. You just want to get your code to work write now.
+  * Looking up stuff is a huge part of this. You're going to get stuck, see errors, write bugs etc. But your questions have already been asked and solutions have been provided. Google an error or a how to, and you'll probably see results from [stack overflow](https://stackoverflow.com/). This is a good thing! Follow these links and you'll get some great explanations/solutions. You probably won't understand some of the stuff you see there, and that's totally ok. You just want to get your code to work write now.
 
 ### Final Thoughts
 
