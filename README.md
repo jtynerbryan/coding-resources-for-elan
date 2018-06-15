@@ -26,5 +26,5 @@
 ### Final Thoughts
 
 * Programming is less about memorizing stuff or how much you know, and more about problem solving and what you can figure out. And it's fine to forget things because it's all just a google search away!
-* If you're really stuck on a problem, sometimes the best thing to do is leave it for an hour or 2. A lot of times when you come back the answer will present itself quickly.
+* If you're really stuck on a problem, sometimes the best thing to do is leave it for an hour or 2. A lot of times when you come back the solution will present itself quickly.
 * Have fun! :tada:
