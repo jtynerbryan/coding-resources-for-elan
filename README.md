@@ -21,10 +21,10 @@
 * [w3schools](https://www.w3schools.com/)
   * easy to understand tutorials and references on HTML, CSS, JavaScript and more.
 * [google](https://www.google.com/)
-  * Looking up stuff is a huge part of this. You're going to get stuck, see errors, write bugs etc. But your questions have already been asked and solutions have been provided. Google an error or a how to, and you'll probably see results from [stack overflow](https://stackoverflow.com/). This is a good thing! Follow these links and you'll get some great explanations/solutions. You probably won't understand some of the stuff you see there, and that's totally ok. You just want to get your code to work write now.
+  * Looking up stuff is a huge part of this. You're going to get stuck, see errors, write bugs etc. But your questions have already been asked and solutions have been provided. Google an error or a how to, and you'll probably see results from [stack overflow](https://stackoverflow.com/). This is a good thing! Follow these links and you'll get some great explanations/solutions. You probably won't understand some of the stuff you see there, and that's totally ok. Ideally you want to understand the why, but it's more important that your code simply works. Senior Software Engineers copy and paste every single day!
 
 ### Final Thoughts
 
 * Programming is less about memorizing stuff or how much you know, and more about problem solving and what you can figure out. And it's fine to forget things because it's all just a google search away!
-* If you're really stuck on a problem, sometimes the best thing to do is leave it for an hour or 2. A lot of times when you come back the solution will present itself quickly.
+* It's easy to get frustrated enough that you can't see a solution, even if it's staring you in the face. If you're really stuck on a problem, sometimes the best thing to do is leave it for an hour or 2. A lot of times when you come back the solution will present itself quickly.
 * Have fun! :tada:
